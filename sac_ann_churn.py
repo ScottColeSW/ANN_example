@@ -1,8 +1,11 @@
 # Requires the latest pip
-#pip install --upgrade pip
+#python -m pip install --upgrade pip
 
 # Current stable release for CPU and GPU
-#pip install tensorflow
+#python -m pip install tensorflow
+
+#Current stable Keras release
+#python -m pip install keras
 
 # Importing Necessary Libraries for Artificial Neural Network
 # Let’s import all the necessary libraries here
@@ -10,7 +13,6 @@
 #Importing necessary Libraries
 import numpy as np
 import pandas as pd
-#import tensorflow as tf
 import tensorflow as tf
 
 # from tensorflow import keras
